@@ -2,7 +2,7 @@
 ![](CascadingVoxylOverlaysv2.png)
 
 ## Quick TOC
- - Title Bar
+ - ![Title Bar](https://github.com/BWP-Stats/Voxyl-Overlay/blob/main/README.md#title-bar)
  - Player Stats
  - Settings
 
