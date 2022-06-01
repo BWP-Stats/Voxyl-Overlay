@@ -7,4 +7,4 @@
  - Settings
 
 ## Title Bar
-![](VoxylTitleBarDemov2.png)
+![](VoxylTitleBarDemov3.png)
